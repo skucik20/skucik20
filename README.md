@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skucik20
 - 👀 I’m interested in Mechanics
-- 🌱 I’m currently python
+- 🌱 I’m currently working python
 - 📫 How to reach me
 - if officially: 
    konradskut20@gmail.com
